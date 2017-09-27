@@ -13,11 +13,11 @@ Here’s   some   more   reading   about   how   the   back-end   should   work.
 or   when   a   loop   occurs
 
 ### I   will   evaluate   you   in   the   following   aspects:
-● How   you   structured   your   code
-● The   Architecture   you   used
-● Code   quality
+How   you   structured   your   code
+The   Architecture   you   used
+Code   quality
 
 ### Some   tips:
-● Because   not   every   single   link   will   lead   to   Philosophy,   think   about   defining   a   maximum number   of   hops
-● Think   about   how   to   handle   if/when   you   get   stuck   in   a   loop
-● Find   out   how   to   ignore   citations/sound/extraneous   links
+Because   not   every   single   link   will   lead   to   Philosophy,   think   about   defining   a   maximum number   of   hops
+Think   about   how   to   handle   if/when   you   get   stuck   in   a   loop
+Find   out   how   to   ignore   citations/sound/extraneous   links
